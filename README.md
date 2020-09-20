@@ -66,8 +66,8 @@ Yeah it is true that PHP is a case sensitive language. Try out following example
 
 ### Arithmetic Operators
 
-| Operator |                         Description                         |       Example       |
-|:--------:|:-----------------------------------------------------------:|:-------------------:|
+| Operator | Description                                                 | Example             |
+|----------|-------------------------------------------------------------|---------------------|
 |     +    | Adds two operands                                           | A + B will give 30  |
 |     -    | Subtracts second operand from the first                     | A - B will give -10 |
 |     *    | Multiply both operands                                      | A * B will give 200 |
@@ -78,8 +78,8 @@ Yeah it is true that PHP is a case sensitive language. Try out following example
 
 ### Comparison Operators
 
-| Operator |                                                           Description                                                           |        Example        |
-|:--------:|:-------------------------------------------------------------------------------------------------------------------------------:|:---------------------:|
+| Operator | Description                                                                                                                     | Example               |
+|----------|---------------------------------------------------------------------------------------------------------------------------------|-----------------------|
 |    ==    | Checks if the value of two operands are equal or not, if yes then condition becomes true.                                       | (A == B) is not true. |
 |    !=    | Checks if the value of two operands are equal or not, if values are not equal then condition becomes true.                      | (A != B) is true.     |
 |     >    | Checks if the value of left operand is greater than the value of right operand, if yes then condition becomes true.             | (A > B) is not true.  |
@@ -105,7 +105,6 @@ The following example will output "Have a nice weekend!" if the current day is F
          else
             echo "Have a nice day!"; 
       ?>
-
 ```
 
 **Result**
